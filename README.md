@@ -30,6 +30,13 @@
 - [shazam-cli](https://github.com/alexgorbatchev/shazam-cli) — Fetch, cache, list, and export your Shazam library from the command line.
 - [tag-track-cli](https://github.com/alexgorbatchev/tag-track-cli) — Identify audio files and update metadata and square cover art without lossy audio re-encoding.
 
+## reMarkable tablet
+
+- [go-remarkable-cloud](https://github.com/alexgorbatchev/go-remarkable-cloud) — Access reMarkable Cloud Sync v3 with authentication, document operations, and content-addressed caching.
+- [go-remarkable-render](https://github.com/alexgorbatchev/go-remarkable-render) — Composite reMarkable PDF backgrounds and handwritten strokes into PNGs.
+- [go-rmscene](https://github.com/alexgorbatchev/go-rmscene) — Parse reMarkable v6 stroke files and render layered SVGs.
+- [remarkable-cli](https://github.com/alexgorbatchev/remarkable-cli) — Access reMarkable Cloud Sync v3, search documents, decode vector strokes, and render pages.
+
 ## CLI tools
 
 - [ambient-recorder-cli](https://github.com/alexgorbatchev/ambient-recorder-cli) — Record macOS microphone input and playback continuously to local Opus files.
@@ -49,10 +56,3 @@
 - [gio-lucide](https://github.com/alexgorbatchev/gio-lucide) — Render Lucide icons as native, scalable vectors in Gio applications.
 - [go-tui-frame](https://github.com/alexgorbatchev/go-tui-frame) — Wrap external terminal applications with custom headers, footers, side regions, and borders.
 - [godeps](https://github.com/alexgorbatchev/godeps) — Manage external binary dependencies and in-place self-updates for Go CLIs.
-
-## reMarkable tablet
-
-- [go-remarkable-cloud](https://github.com/alexgorbatchev/go-remarkable-cloud) — Access reMarkable Cloud Sync v3 with authentication, document operations, and content-addressed caching.
-- [go-remarkable-render](https://github.com/alexgorbatchev/go-remarkable-render) — Composite reMarkable PDF backgrounds and handwritten strokes into PNGs.
-- [go-rmscene](https://github.com/alexgorbatchev/go-rmscene) — Parse reMarkable v6 stroke files and render layered SVGs.
-- [remarkable-cli](https://github.com/alexgorbatchev/remarkable-cli) — Access reMarkable Cloud Sync v3, search documents, decode vector strokes, and render pages.

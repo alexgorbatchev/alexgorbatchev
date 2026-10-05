@@ -1,6 +1,6 @@
 ---
 created_on: 2026-10-04 19:34
-last_modified: 2026-10-04 19:34
+last_modified: 2026-10-04 19:42
 status: current
 ---
 
@@ -20,6 +20,7 @@ This documentation-only repository contains the README displayed on Alex Gorbatc
 - Sort project bullets alphabetically by repository name within each section.
 - Keep AI tools and AI libraries in separate sections. Put `agent-parser`, `agent-watcher`, and `typescript-ai-policy` under AI libraries.
 - Group domain-specific projects by subject: `djtools` belongs under Music and DJ tools.
+- Place the reMarkable tablet section immediately after Music and DJ tools.
 - Keep descriptions concise, factual, and focused on what each project does. Avoid labels such as "My main project."
 - Verify project names, public URLs, and descriptions against repository documentation or GitHub metadata before adding them.
 - Identify direct ports and maintained forks, and link to their upstream projects.
