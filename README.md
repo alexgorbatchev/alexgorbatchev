@@ -1,20 +1,23 @@
 # Alex Gorbatchev
 
-## Dotfiles
+[dotfiles](https://github.com/alexgorbatchev/dotfiles) is a CLI for managing tools, dotfiles, and shell configuration across machines. Define tools declaratively, install them on first use, and make them available to both shells and GUI applications. [Documentation](https://alexgorbatchev.github.io/dotfiles/)
 
-[dotfiles](https://github.com/alexgorbatchev/dotfiles) is a CLI for managing tools, dotfiles, and shell configuration across machines. Define tools declaratively, install them on first use, and make them available to both shells and GUI applications.
+[devhost](https://github.com/alexgorbatchev/devhost) gives local applications HTTPS hostnames and one command to start and route development services. Configure a single app or a full stack, with health checks and optional browser devtools. [Documentation](https://alexgorbatchev.github.io/devhost/)
 
-[Documentation](https://alexgorbatchev.github.io/dotfiles/)
+## AI tools
 
-## AI tools and libraries
-
-- [agent-parser](https://github.com/alexgorbatchev/agent-parser) — Parse Claude Code, Pi, Codex, and OpenCode transcripts and databases into a shared event model.
 - [agent-print-session-cli](https://github.com/alexgorbatchev/agent-print-session-cli) — Inspect, summarize, filter, and print Claude Code and Pi session transcripts.
-- [agent-watcher](https://github.com/alexgorbatchev/agent-watcher) — Discover coding agent sessions and stream lifecycle and activity events with acknowledged checkpoints for restart replay.
 - [agentation-cli](https://github.com/alexgorbatchev/agentation-cli) — CLI companion for the Agentation fork.
 - [ai-registry](https://github.com/alexgorbatchev/ai-registry) — My canonical registry of reusable AI skills, commands, and profiles, with generated configuration for different coding agent harnesses.
+- [simple-ptt](https://github.com/alexgorbatchev/simple-ptt) — macOS push-to-talk menu bar app with live Deepgram transcription, optional LLM cleanup, and paste into the focused application.
 - [tiktoken-cli](https://github.com/alexgorbatchev/tiktoken-cli) — Count tokens using OpenAI's tiktoken tokenizer.
+
+## AI libraries
+
+- [agent-parser](https://github.com/alexgorbatchev/agent-parser) — Parse Claude Code, Pi, Codex, and OpenCode transcripts and databases into a shared event model.
+- [agent-watcher](https://github.com/alexgorbatchev/agent-watcher) — Discover coding agent sessions and stream lifecycle and activity events with acknowledged checkpoints for restart replay.
 - [ts-unused](https://github.com/alexgorbatchev/ts-unused) — Audit TypeScript projects for unused exports, files, and type properties, with output for AI cleanup workflows and VS Code integration.
+- [typescript-ai-policy](https://github.com/alexgorbatchev/typescript-ai-policy) — Shared Oxfmt and Oxlint configuration with custom rules for keeping AI-assisted TypeScript and React code strict and reviewable.
 
 ## Music and DJ tools
 
@@ -53,4 +56,3 @@
 - [go-remarkable-render](https://github.com/alexgorbatchev/go-remarkable-render) — Composite reMarkable PDF backgrounds and handwritten strokes into PNGs.
 - [go-rmscene](https://github.com/alexgorbatchev/go-rmscene) — Parse reMarkable v6 stroke files and render layered SVGs.
 - [remarkable-cli](https://github.com/alexgorbatchev/remarkable-cli) — Access reMarkable Cloud Sync v3, search documents, decode vector strokes, and render pages.
-
